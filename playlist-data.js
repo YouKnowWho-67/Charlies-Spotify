@@ -217,6 +217,8 @@ const playlistCatalog = [
             { title: "twin towers", artist: "TopOppGen", file: "twin towers.mp3" },
             { title: "features", artist: "TopOppGen", file: "features.mp3" },
             { title: "eway", artist: "TopOppGen", file: "eway.mp3" },
+        ]
+    }
 ];
 
 function buildPlaylistSongs(playlist) {
