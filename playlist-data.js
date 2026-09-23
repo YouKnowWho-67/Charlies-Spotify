@@ -205,7 +205,16 @@ const playlistCatalog = [
             { title: "Missed Call", artist: "Treaty Oak Revival", file: "Missed Call.mp3" },
             { title: "Old Farm Drive", artist: "Gavin Adcock", file: "Old Farm Drive.mp3" },
         ]
-    }
+    },
+    {
+        id: "deandrew",
+        name: "Deandrew's playlist",
+        description: "Deandrew's playlist.",
+        folder: "music/deandrew/",
+        cover: "assets/deandrew.jpg",
+        privacy: "public",
+        songs: [
+            { title: "Twin Towers", artist: "TopOppGen", file: "twin towers.mp3" },
 ];
 
 function buildPlaylistSongs(playlist) {
