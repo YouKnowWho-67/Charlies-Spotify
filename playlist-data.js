@@ -207,17 +207,7 @@ const playlistCatalog = [
         ]
     },
     {
-        id: "deandrew",
-        name: "Deandrew's playlist",
-        description: "Deandrew's playlist.",
-        folder: "music/deandrew/",
-        cover: "assets/deandrew.jpg",
-        privacy: "public",
-        songs: [
-            { title: "Twin Towers", artist: "TopOppGen", file: "twin towers.mp3" },
-        ]  
-    },
-    {
+    
 ];
 
 function buildPlaylistSongs(playlist) {
