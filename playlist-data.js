@@ -215,7 +215,9 @@ const playlistCatalog = [
         privacy: "public",
         songs: [
             { title: "Twin Towers", artist: "TopOppGen", file: "twin towers.mp3" },
-        ]   
+        ]  
+    },
+    {
 ];
 
 function buildPlaylistSongs(playlist) {
