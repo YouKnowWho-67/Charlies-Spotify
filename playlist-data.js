@@ -205,8 +205,7 @@ const playlistCatalog = [
             { title: "Missed Call", artist: "Treaty Oak Revival", file: "Missed Call.mp3" },
             { title: "Old Farm Drive", artist: "Gavin Adcock", file: "Old Farm Drive.mp3" },
         ]
-    },
-    {
+    }
     
 ];
 
