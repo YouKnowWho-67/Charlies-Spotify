@@ -217,6 +217,12 @@ const playlistCatalog = [
             { title: "features", artist: "TopOppGen", file: "features (1).mp3" },
             { title: "twin towers", artist: "TopOppGen", file: "twin towers.mp3" },
             { title: "eway", artist: "TopOppGen", file: "eway.mp3" },
+            { title: "pop Two", artist: "BabyRu78", file: "BabyRu78-Pop Two (Official Audio)-BabyRu78 (youtube).mp3" },
+            { title: "Ray Bands", artist: "BabyRu78", file: "BabyRu78-Ray Bands (Official Music Video)-BabyRu78 (youtube).mp3" },
+            { title: "More Than Friends", artist: "BabyRu78", file: "BabyRu78-More Than Friends (Official Music Video)-BabyRu78 (youtube).mp3" },
+            { title: "Krossfire", artist: "BabyRu78", file: "BabyRu78-Krossfire (ft. Jay Montana) (Official Audio)-BabyRu78 (youtube).mp3" },
+            { title: "Bad Habit", artist: "BabyRu78", file: "BabyRu78-Bad Habit (Official Audio)-BabyRu78 (youtube).mp3" },
+            { title: "pop Two", artist: "NBA YoungBoy", file: "BabyRu78-Pop Two (Official Audio)-BabyRu78 (youtube).mp3" },
         ]
     }
 ];
