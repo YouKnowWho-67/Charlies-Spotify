@@ -222,7 +222,9 @@ const playlistCatalog = [
             { title: "More Than Friends", artist: "BabyRu78", file: "BabyRu78-More Than Friends (Official Music Video)-BabyRu78 (youtube).mp3" },
             { title: "Krossfire", artist: "BabyRu78", file: "BabyRu78-Krossfire (ft. Jay Montana) (Official Audio)-BabyRu78 (youtube).mp3" },
             { title: "Bad Habit", artist: "BabyRu78", file: "BabyRu78-Bad Habit (Official Audio)-BabyRu78 (youtube).mp3" },
-            { title: "pop Two", artist: "NBA YoungBoy", file: "BabyRu78-Pop Two (Official Audio)-BabyRu78 (youtube).mp3" },
+            { title: "Murder Business", artist: "NBA YoungBoy", file: "NBA YoungBoy  - Murder Business (official video) - YB Vault (youtube).mp3" },
+            { title: "Green Dot", artist: "NBA YoungBoy", file: "YoungBoy Never Broke Again - Green Dot [Official Music Video] - YB Vault (youtube).mp3" },
+            { title: "Sticks With Me", artist: "NBA YoungBoy", file: "Youngboy Never Broke Again - Sticks with me (official video) - YB Vault (youtube).mp3" },
         ]
     }
 ];
