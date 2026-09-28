@@ -246,7 +246,7 @@ const playlistCatalog = [
             { title: "Make No Sense", artist: "YoungBoy Never Broke Again", file: "Blank.mp3" },
             { title: "Slime Belief", artist: "YoungBoy Never Broke Again", file: "Blank.mp3" },
 
-            id: "reaagan",
+            id: "reagan",
         name: "Rj's Playlist",
         description: "Rj's playlist.",
         folder: "music/reagan/",
